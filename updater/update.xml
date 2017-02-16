@@ -2,7 +2,7 @@
 <sharpUpdate>
 	<update appId="CraftyDexRTM">
 		<version>2.0.0.0</version>
-		<url>https://github.com/Rencify/RTM-Tool-Updater/tree/master/updater/update.xml</url>
+		<url>https://github.com/Rencify/RTM-Tool-Updater/tree/master/updater/CraftyDexRTM.exe</url>
 		<fileName>CraftyDexRTM.exe</fileName>
 		<md5>2500a84c4309ee51424d7c998b6ef699</md5>
 		<description>Update Test</description>
